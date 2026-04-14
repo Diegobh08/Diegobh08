@@ -1,16 +1,48 @@
-## Hi there 👋
+class N3dal(Abdullah):
+   """self-taught developer that love to learn more about Computer-Science and Technologies"""
+   
+   def __init__(self):
+     
+      self.name = "Nedal Abdullah"
+      self.age = 23
+      self.role = "Student"
 
-<!--
-**Diegobh08/Diegobh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      self.TOOLS = {
+          "ScriptingLanguages" : ("Python", "Bash-Script", "matlab"),
+          "ProgrammingLanguages" : ("C", "C++"),
+          "MarkupLanguages" : ("Html", "markdown"),
+          "OtherLanguages" : ("json", ),
+          "Editors" : ("VsCode", "Sublime"),
+          "Platform" : ("GNU/LINUX",),
+          "OtherTools" : ("GIMP", "Git", "Arduino")
+         }
 
-Here are some ideas to get you started:
+      self.INTERESTS = [
+         "Computer Sciences",
+         "Electrical & Electronic Engineering",
+         "Computer Networks and Networking",
+         "Electromagnetic & Antenna Design"
+         ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   def use(self, tool):
+      """use one of my tools or use bunch of them."""
+      return self.tools[tool]
+
+
+   def work(self):
+      """"""
+      while not WORK_DONE:
+         # keep work.
+         self.use(tool)
+
+      return WORK_DONE
+
+
+   def __len__(self):
+      """Fun Fact"""
+      return 181 # cm
+
+
+   def __repr__(self):
+      """"""
+      return f"{self.name} an {self.age} y.o self-taught developer and {self.role}"
