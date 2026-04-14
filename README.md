@@ -14,10 +14,9 @@
 I'm **`Diego Barrios`** an 20 y.o. Systems engineering student from Barranquilla "Atlantico",
 and a self-taught developer with deep passion for Computer-Science and Technologies.
 
-- 👀 I’m looking to collaborate on **Open-Source** Projects.
-- 🐍 I’m looking to collaborate on **Python** projects.
+
 - 👨‍💻 All of my projects are available at [https://github.com/Diegobh08](https://github.com/Diegobh08)
-- 💬 Ask me about **Electromagnetic** or **Python**.
+- 💬 Ask me about **Python**.
 - 🐧 I like **HTML, JAVASCRIPT, CSS**.
 - 🐧 I like **Basketball**.
 - 📫 How to reach me **diegobarrios102100@gmail.com**
@@ -84,11 +83,7 @@ class N3dal(Abdullah):
 
 
 
-<!-- to draw horizontal line -->
-#
-## Where to find me
-[![Codewars]([https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Diegobh08(https://www.codewars.com/users/Diegobh08))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+
 
 
 
@@ -101,3 +96,10 @@ Thank you for taking the time to read my profile 🤣🤣
 ------
 Credit: [Diegobh08](https://github.com/Diegobh08)
 Last Edited: 14/04/2026
+
+
+
+
+
+
+
